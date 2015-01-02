@@ -206,7 +206,8 @@
 		max-width: 100%;
 		display: block;
 		margin-bottom: 20px;
-		background: #fff; }
+		background: #fff;
+     }
 	select {
 		padding: 0; }
 	input[type="text"]:focus,
@@ -482,6 +483,17 @@
   #action .row {
   margin-top:3em;
  }
+ 
+ #action input {
+  width:100%;
+  display:block;
+  margin-right: auto;
+  margin-left: auto; 
+ }
+
+#action button {
+ 
+}
 
  /* footer */
 
